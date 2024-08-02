@@ -1,0 +1,30 @@
+### GET all products
+GET http://localhost:2000/products
+
+### GET a product by ID
+GET http://localhost:2000/products/669148a82d6bed84291d55a4
+
+### GET products filtered by category
+GET http://localhost:2000/products?category=frutas
+
+### POST a new product
+POST http://localhost:2000/products
+Content-Type: application/json
+
+{
+    "nombre": "aguacate",
+    "cantidad": 120,
+    "precio": 4100,
+    "categoria": "frutas"
+}
+
+### PATCH a product
+PATCH http://localhost:2000/products/669148a82d6bed84291d559e
+Content-Type: application/json
+
+{
+    "cantidad": 76
+}
+
+### DELETE a product
+DELETE http://localhost:2000/products/6691a27c5a613d34781f4783

@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "nombre": "manzana",
+        "cantidad": 39,
+        "precio": 3100,
+        "categoria": "frutas"
+    },
+    {
+        "id": "2",
+        "nombre": "cebolla",
+        "cantidad": 45,
+        "precio": 1500,
+        "categoria": "verduras"
+    },
+    {
+        "id": "3",
+        "nombre": "salchichas x20",
+        "cantidad": 50,
+        "precio": 20000,
+        "categoria": "embutidos"
+    },
+    {
+        "id": "4",
+        "nombre": "chorizo ahumado x15",
+        "cantidad": 22,
+        "precio": 12500,
+        "categoria": "embutidos"
+    },
+    {
+        "id": "5",
+        "nombre": "Leche deslactosada",
+        "cantidad": 46,
+        "precio": 3800,
+        "categoria": "lacteos"
+    },
+    {
+        "id": "6",
+        "nombre": "Queso amarillo - tajadas x20",
+        "cantidad": 33,
+        "precio": 5900,
+        "categoria": "lacteos"
+    },
+    {
+        "id": "7",
+        "nombre": "pancakes - masa prehecha",
+        "cantidad": 13,
+        "precio": 7500,
+        "categoria": "embutido"
+    }
+]
